@@ -7,5 +7,5 @@ window.addEventListener("load", () => {
 const signInsignUpBtn = document.querySelector(".sign-in-sign-up");
 
 signInsignUpBtn.addEventListener("click", () => {
-  location.href = "./fontend/pages/signInsignUp/authenticate.html";
+  location.href = "./frontend/pages/signInsignUp/authenticate.html";
 });
